@@ -5,7 +5,7 @@
     "logoImg": "images/logo-sagrada-familia.jpg",
     "heroImg": "images/cristo-icono.jpg",
     "footerImg": "images/virgen-icono.jpg",
-    "meetingDate": "2026-07-07",
+    "meetingDate": "2026-07-14",
     "meetingTime": "18:00",
     "meetingPlace": "A convenir",
     "meetingNote": "Traer Biblia y libreta. Puntualidad, por favor.",
@@ -287,5 +287,5 @@
     }
   ],
   "adminPw": "062d0706b58427a2c4c532416fe6fa1821e79ca4d1450718630b058ea2b7e196",
-  "__publishedAt": 1783299493064
+  "__publishedAt": 1783299658844
 }
