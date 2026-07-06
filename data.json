@@ -1,14 +1,15 @@
 {
   "church": {
-    "name": "Grupos de Vida",
-    "subtitle": "Camino Neocatecumenal · Palabra y Escrutinio",
+    "name": "Primera Comunidad de la Catedral de Alajuela",
+    "subtitle": "Palabra y Escrutinio",
     "logoImg": "images/logo-sagrada-familia.jpg",
     "heroImg": "images/cristo-icono.jpg",
     "footerImg": "images/virgen-icono.jpg",
     "meetingDate": "2026-07-12",
     "meetingTime": "18:00",
     "meetingPlace": "Salón parroquial",
-    "meetingNote": "Traer Biblia y libreta. Puntualidad, por favor."
+    "meetingNote": "Traer Biblia y libreta. Puntualidad, por favor.",
+    "heroText": ""
   },
   "bible": {
     "version": "RVR1960",
@@ -20,7 +21,14 @@
       "id": "g1",
       "name": "Grupo 1",
       "color": "violeta",
-      "members": ["Jenner", "Yadira A.", "José R.", "Ligia", "Pablo", "Mery"],
+      "members": [
+        "Jenner",
+        "Yadira A.",
+        "José R.",
+        "Ligia",
+        "Pablo",
+        "Mery"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -46,7 +54,14 @@
       "id": "g2",
       "name": "Grupo 2",
       "color": "oro",
-      "members": ["Rocío", "Oscar", "Jeannina", "Norman", "Fabián", "Maritza"],
+      "members": [
+        "Rocío",
+        "Oscar",
+        "Jeannina",
+        "Norman",
+        "Fabián",
+        "Maritza"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -72,7 +87,15 @@
       "id": "g3",
       "name": "Grupo 3",
       "color": "rosa",
-      "members": ["Yadira", "Oscar", "Vicky", "P. Roberto", "Jorge", "Edit", "Zelmira R."],
+      "members": [
+        "Yadira",
+        "Oscar",
+        "Vicky",
+        "P. Roberto",
+        "Jorge",
+        "Edit",
+        "Zelmira R."
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -98,7 +121,14 @@
       "id": "g4",
       "name": "Grupo 4",
       "color": "violeta",
-      "members": ["Idilia", "Enrique", "Liz", "Zelmira G.", "Ada", "Rosa"],
+      "members": [
+        "Idilia",
+        "Enrique",
+        "Liz",
+        "Zelmira G.",
+        "Ada",
+        "Rosa"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -124,7 +154,14 @@
       "id": "g5",
       "name": "Grupo 5",
       "color": "oro",
-      "members": ["Ana", "José", "Vivian", "Nena", "Marielos", "Carmen"],
+      "members": [
+        "Ana",
+        "José",
+        "Vivian",
+        "Nena",
+        "Marielos",
+        "Carmen"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -150,7 +187,15 @@
       "id": "g6",
       "name": "Grupo 6",
       "color": "rosa",
-      "members": ["Oscar", "Patoi", "Gabriel", "Emy", "Juan", "María", "Rosemarie"],
+      "members": [
+        "Oscar",
+        "Gabriel",
+        "Juan",
+        "María",
+        "Rosemarie",
+        "Patri",
+        "Eny"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -176,7 +221,15 @@
       "id": "g7",
       "name": "Grupo 7",
       "color": "violeta",
-      "members": ["Franklin", "Francis", "William", "Lucina", "Berta", "Osvaldo", "Ana"],
+      "members": [
+        "Franklin",
+        "Francis",
+        "William",
+        "Lucina",
+        "Berta",
+        "Osvaldo",
+        "Ana"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -202,7 +255,15 @@
       "id": "g8",
       "name": "Grupo 8",
       "color": "oro",
-      "members": ["Mariano", "Rodolfo", "Cecilia", "Josefina", "Eliet", "Alfredo", "Magda"],
+      "members": [
+        "Mariano",
+        "Rodolfo",
+        "Cecilia",
+        "Josefina",
+        "Eliet",
+        "Alfredo",
+        "Magda"
+      ],
       "proverbio": {
         "label": "Proverbios 30-31",
         "book": "Proverbios",
@@ -225,5 +286,6 @@
       }
     }
   ],
-  "adminPw": "062d0706b58427a2c4c532416fe6fa1821e79ca4d1450718630b058ea2b7e196"
+  "adminPw": "062d0706b58427a2c4c532416fe6fa1821e79ca4d1450718630b058ea2b7e196",
+  "__publishedAt": 1783298773544
 }
